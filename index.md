@@ -5,7 +5,7 @@
  <summary>
   <strong>2018-2019 Games</strong>
  </summary>
- 
+  * 
  <details>
    <summary><strong>
     <a href="Games/2018-2019/game-name">Game Name - by: First L.</a>
@@ -44,6 +44,8 @@
  <summary>
   <strong>2017-2018 Games</strong>
  </summary>
+
+  * [Platform-of-child: Cyril Jones](https://github.com/CyrilJones9/Platform-of-child) --- George (the genderless child) is lost in the wood, and it keeps getting stuck on the ground!
 
   * [Bup Blaster: Riley Bennett](https://RileyBennett.github.io/BupBlaster/index.html) --- Bup Blaster is a game in which the player must survive as long as possible by flying around in a spaceship and shooting the angry bups chasing after them.
 
