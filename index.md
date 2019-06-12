@@ -26,14 +26,14 @@
  <details>
   <summary><strong>
    <a href="Games/2018-2019/George">Platform of Child</a>
-   </strong></summary>
+  </strong></summary>
  
-    George (the genderless child) is lost in the wood, and it keeps getting stuck on the ground! 
+  George (the genderless child) is lost in the wood, and it keeps getting stuck on the ground! 
      
   Playtest Feedback Request: 
-  *What would you like to see george doing? 
-  *Any Recommendations?
-  *We know about the errors, any idea to fix them?
+  * What would you like to see george doing? 
+  * Any Recommendations?
+  * We know about the errors, any idea to fix them?
   
   Source respository: [Platform of Child](https://github.com/CyrilJones9/Platform-of-child)
 
