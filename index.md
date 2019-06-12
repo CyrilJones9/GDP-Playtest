@@ -5,13 +5,37 @@
  <summary>
   <strong>2018-2019 Games</strong>
  </summary>
-  * 
+
+  <details>
+   <summary><strong>
+    <a href="Games/2018-2019/Chief-Mischief">Chief Mischief - by: Lorenzo-St</a>
+   </strong></summary>
+ 
+   Mom and Dad are out for a night on the town, Grandma and Gramps are here to watch you, but you have other plans. As a mischievious child, your goal is to cause as much damage to your house as possible.
+ 
+   Playtest Feedback Requests:
+   * do my AIs work
+   * Are my controls sound
+   * How are my Menues, are there any that don't work
+   * Does the high score work
+   * how are my colliders
+   
+   Source repository: [Comp-Game](https://github.com/Lorenzo-St/Comp-Game)
+ </details>
+ 
+  [Platform-of-child: Cyril Jones]
+    George (the genderless child) is lost in the wood, and it keeps getting stuck on the ground! 
+     Playtest Feedback Request: 
+  *What would you like to see george doing? 
+  *Any Recommendations?
+  *We know about the errors, any idea to fix them?
+  
+  Source respository: [Comp-Game](https://github.com/CyrilJones9/Platform-of-child)
  <details>
    <summary><strong>
     <a href="Games/2018-2019/game-name">Game Name - by: First L.</a>
    </strong></summary>
- 
-   A short description of your game goes here.
+    A short description of your game goes here.
  
    Playtest Feedback Requests:
    * Question 1.
@@ -45,7 +69,6 @@
   <strong>2017-2018 Games</strong>
  </summary>
 
-  * [Platform-of-child: Cyril Jones](https://github.com/CyrilJones9/Platform-of-child) --- George (the genderless child) is lost in the wood, and it keeps getting stuck on the ground!
 
   * [Bup Blaster: Riley Bennett](https://RileyBennett.github.io/BupBlaster/index.html) --- Bup Blaster is a game in which the player must survive as long as possible by flying around in a spaceship and shooting the angry bups chasing after them.
 
