@@ -23,14 +23,22 @@
    Source repository: [Comp-Game](https://github.com/Lorenzo-St/Comp-Game)
  </details>
  
-  [Platform-of-child: Cyril Jones]
+ <details>
+  <summary><strong>
+   <a href="Games/2018-2019/George">Platform of Child</a>
+   </strong></summary>
+ 
     George (the genderless child) is lost in the wood, and it keeps getting stuck on the ground! 
-     Playtest Feedback Request: 
+     
+  Playtest Feedback Request: 
   *What would you like to see george doing? 
   *Any Recommendations?
   *We know about the errors, any idea to fix them?
   
-  Source respository: [Comp-Game](https://github.com/CyrilJones9/Platform-of-child)
+  Source respository: [Platform of Child](https://github.com/CyrilJones9/Platform-of-child)
+
+</details>
+  
  <details>
    <summary><strong>
     <a href="Games/2018-2019/game-name">Game Name - by: First L.</a>
