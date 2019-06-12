@@ -5,6 +5,7 @@
  <summary>
   <strong>2018-2019 Games</strong>
  </summary>
+
   <details>
    <summary><strong>
     <a href="Games/2018-2019/Chief-Mischief">Chief Mischief - by: Lorenzo-St</a>
@@ -21,12 +22,20 @@
    
    Source repository: [Comp-Game](https://github.com/Lorenzo-St/Comp-Game)
  </details>
+ 
+  [Platform-of-child: Cyril Jones]
+    George (the genderless child) is lost in the wood, and it keeps getting stuck on the ground! 
+     Playtest Feedback Request: 
+  *What would you like to see george doing? 
+  *Any Recommendations?
+  *We know about the errors, any idea to fix them?
+  
+  Source respository: [Comp-Game](https://github.com/CyrilJones9/Platform-of-child)
  <details>
    <summary><strong>
     <a href="Games/2018-2019/game-name">Game Name - by: First L.</a>
    </strong></summary>
- 
-   A short description of your game goes here.
+    A short description of your game goes here.
  
    Playtest Feedback Requests:
    * Question 1.
@@ -59,6 +68,7 @@
  <summary>
   <strong>2017-2018 Games</strong>
  </summary>
+
 
   * [Bup Blaster: Riley Bennett](https://RileyBennett.github.io/BupBlaster/index.html) --- Bup Blaster is a game in which the player must survive as long as possible by flying around in a spaceship and shooting the angry bups chasing after them.
 
