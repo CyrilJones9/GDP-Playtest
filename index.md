@@ -21,7 +21,7 @@
  </details>
   <details>
    <summary><strong>
-    <a href="Games/2018-2019/Even Newer Granny">Even Newer Granny - by: William M.</a>
+    <a href="Games/2018-2019/Even Newer Granny/index.html">Even Newer Granny - by: William M.</a>
    </strong></summary>
  
     an infant trys running away from her grandma after shes ben a very bad girl
