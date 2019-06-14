@@ -51,6 +51,19 @@
    
    Source repository: [Repository Name](repository-url)
  </details>
+  <details>
+   <summary><strong>
+    <a href="Games/2018-2019/Even Newer Granny/index.html">Even Newer Granny - by: William M.</a>
+   </strong></summary>
+ 
+    an infant trys running away from her grandma after shes ben a very bad girl
+ 
+   Playtest Feedback Requests:
+   * Question 1. What would you add into my game?
+   * Question 2. What would you delete from my game?
+   
+   Source repository: [GameDesignContest](https://github.com/Mcel1000/GameDesignContest/tree/master/Builds)
+ </details>
  
   <details>
    <summary><strong>
